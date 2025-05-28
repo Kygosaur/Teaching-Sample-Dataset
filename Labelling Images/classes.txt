@@ -1,0 +1,5 @@
+0 hard hat
+1 safety shoes
+2 shoes
+3 gloves
+4 welding mask
